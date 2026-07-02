@@ -153,10 +153,10 @@ If Shanghai is China's future, Beijing is its soul. Students walk through 3,000+
 | Daily Mandarin classes | ✅ | ✅ | ✅ |
 | Cultural workshops | ✅ | ✅ | ✅ |
 | City excursions | ✅ | ✅ | ✅ |
-| Accommodation | Hotel (shared) | ❌ | Host family |
+| Accommodation | Hotel (shared) | ✅ | Host family |
 | 3 meals/day | ✅ | Lunch only | ✅ |
-| Airport transfers | ✅ | ❌ | ✅ |
-| Evening activities | ✅ | ❌ | ✅ |
+| Airport transfers | ✅ | ✅ | ✅ |
+| Evening activities | ✅ | ✅ | ✅ |
 | NihaoCafe platform access | ✅ | ✅ | ✅ |
 | Staff supervision | 24/7 | Daytime | 24/7 |
 
